@@ -1,0 +1,15 @@
+{
+  "en": {
+    "questions": {
+      "bill" : "What was the total bill amount?:\n$",
+      "tip" : "How much of a tip do you want to leave?:\n",
+      "split" : "How many people are splitting the bill?:\n"
+    },
+    "errors:": {
+      "bill" : "Please enter in a number!\n==> Example: 500 or 50.25\n",
+      "tip" : "Please enter a whole number!\n==> Example: 5 or 10\n",
+      "split" : "Please enter a whole number!\n==> Example: 5 or 10\n"
+    },
+    "result" : "Your total is: $"
+  }
+}
